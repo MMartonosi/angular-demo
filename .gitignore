@@ -6,6 +6,7 @@ sites/site*/private/
 sites/site*/public/admin/
 sites/site*/public/setup/
 sites/site*/public/theme/
+server/node_modules/
 textpattern/
 HISTORY.txt
 README.txt

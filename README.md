@@ -1,1 +1,1 @@
-# angular-demo
+# angular starter
